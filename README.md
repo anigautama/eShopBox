@@ -43,9 +43,6 @@ What things you need to install the software and how to install them
 * PyCharm IDE
 * for more info please run pip freeze > requirement.txt
 
-```
-Give examples
-```
 * eshop_db.sql just import into mysql
 
 # set mysql db

@@ -46,12 +46,6 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
-
-### Installing
-
-clone from https://github.com/harryanand060/eshopbox
-or download
-
 * eshop_db.sql just import into mysql
 
 # set mysql db
@@ -67,25 +61,3 @@ or download
         'OPTIONS': {'init_command': 'SET default_storage_engine=INNODB', }
     }
 }
-
-# Admin Login
-  * username=admin
-  * password=admin@1234
-
-# Employee1 Login
-   * username=anand
-   * password=anand@1234
-
-# Employee2 Login
-   *  username=hemant
-   * password=Hello@9876
-
-## Authors
-
-* **Anand Kumar** - https://github.com/harryanand060/
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
